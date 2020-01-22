@@ -1,0 +1,11 @@
+C:\Users\bspencer\OneDrive - Knex\Documents\GrandCircus\Powers\bin\Debug\netcoreapp3.1\Powers.exe
+C:\Users\bspencer\OneDrive - Knex\Documents\GrandCircus\Powers\bin\Debug\netcoreapp3.1\Powers.deps.json
+C:\Users\bspencer\OneDrive - Knex\Documents\GrandCircus\Powers\bin\Debug\netcoreapp3.1\Powers.runtimeconfig.json
+C:\Users\bspencer\OneDrive - Knex\Documents\GrandCircus\Powers\bin\Debug\netcoreapp3.1\Powers.runtimeconfig.dev.json
+C:\Users\bspencer\OneDrive - Knex\Documents\GrandCircus\Powers\bin\Debug\netcoreapp3.1\Powers.dll
+C:\Users\bspencer\OneDrive - Knex\Documents\GrandCircus\Powers\bin\Debug\netcoreapp3.1\Powers.pdb
+C:\Users\bspencer\OneDrive - Knex\Documents\GrandCircus\Powers\obj\Debug\netcoreapp3.1\Powers.csprojAssemblyReference.cache
+C:\Users\bspencer\OneDrive - Knex\Documents\GrandCircus\Powers\obj\Debug\netcoreapp3.1\Powers.AssemblyInfoInputs.cache
+C:\Users\bspencer\OneDrive - Knex\Documents\GrandCircus\Powers\obj\Debug\netcoreapp3.1\Powers.AssemblyInfo.cs
+C:\Users\bspencer\OneDrive - Knex\Documents\GrandCircus\Powers\obj\Debug\netcoreapp3.1\Powers.dll
+C:\Users\bspencer\OneDrive - Knex\Documents\GrandCircus\Powers\obj\Debug\netcoreapp3.1\Powers.pdb
